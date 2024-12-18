@@ -193,15 +193,15 @@ Clicking on each example will take you directly to the specific section on the s
 
 ---
 
-### Example 10 **🔄 
-Reverse the list [10, 20, 30, 40, 50] and print the result.**  
+### Example 10 
+🔄 Reverse the list [10, 20, 30, 40, 50] and print the result.**  
     ```python  
     my_list = [10, 20, 30, 40, 50]  
     my_list.reverse()  
     print(my_list)  # Output: [50, 40, 30, 20, 10]  
     ```  
     **Explanation:**  
-    The `reverse()` method rearranges the list in reverse order.  
+    The `reverse()` method rearranges the list in reverse order. 
     **Real-Life Example:**
     Consider flipping through the pages of a book backward, or reversing a sequence of numbers for a countdown. `reverse()` works similarly by reversing the order of items in a list.  
 
