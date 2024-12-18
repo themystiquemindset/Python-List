@@ -92,7 +92,7 @@ Clicking on each example will take you directly to the specific section on the s
 
 ### 📝 Basic List Operations  
 
-1. **Example 1**
+1. ### Example 1
 **🔢 Create a list of the first 10 natural numbers and print it.**  
    ```python  
    numbers = list(range(1, 11))  
