@@ -50,44 +50,6 @@ This section covers various Python list operations with real-life examples for b
 
 ---
 
-### **Intermediate List Operations**
-
-11. **🧮 Create a list comprehension that generates a list of the squares of numbers from 1 to 10.**  
-    [Example 11](#create-a-list-comprehension-that-generates-a-list-of-the-squares-of-numbers-from-1-to-10)
-
-12. **🔢 Filter the even numbers from the list [1, 2, 3, 4, 5, 6, 7, 8, 9, 10] using list comprehension.**  
-    [Example 12](#filter-the-even-numbers-from-the-list-123456789-10-using-list-comprehension)
-
-13. **🔄 Create a list comprehension that generates a list of tuples where each tuple contains a number and its square.**  
-    [Example 13](#create-a-list-comprehension-that-generates-a-list-of-tuples-where-each-tuple-contains-a-number-and-its-square)
-
-14. **📚 Flatten a list of lists [[1, 2], [3, 4], [5, 6]] using list comprehension.**  
-    [Example 14](#flatten-a-list-of-lists-1234-56-using-list-comprehension)
-
----
-
-### **Advanced List Operations**
-
-15. **🛠️ Create a list of unique elements from multiple lists using set operations.**  
-    [Example 15](#create-a-list-of-unique-elements-from-multiple-lists-using-set-operations)
-
-16. **🔄 Perform a deep copy of a nested list using recursion.**  
-    [Example 16](#perform-a-deep-copy-of-a-nested-list-using-recursion)
-
-17. **🔍 Perform a linear search for multiple elements in a large list.**  
-    [Example 17](#perform-a-linear-search-for-multiple-elements-in-a-large-list)
-
-18. **💾 Serialize and deserialize a complex list object using JSON.**  
-    [Example 18](#serialize-and-deserialize-a-complex-list-object-using-json)
-
-19. **💻 Implement a custom sorting algorithm for a list of dictionaries based on specific key values.**  
-    [Example 19](#implement-a-custom-sorting-algorithm-for-a-list-of-dictionaries-based-on-specific-key-values)
-
-20. **⏪️ Implement a custom reverse function for a list while maintaining its original structure.**  
-    [Example 20](#implement-a-custom-reverse-function-for-a-list-while-maintaining-its-original-structure)
-
----
-
 Clicking on each example will take you directly to the specific section on the same page.
 
 ### 📝 Basic List Operations  
