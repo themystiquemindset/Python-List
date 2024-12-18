@@ -92,7 +92,7 @@ Clicking on each example will take you directly to the specific section on the s
 
 ### 📝 Basic List Operations  
 
-1. ### Example 1 
+ ### Example 1 
 **🔢 Create a list of the first 10 natural numbers and print it.**
    ```python  
    numbers = list(range(1, 11))  
@@ -106,7 +106,8 @@ Clicking on each example will take you directly to the specific section on the s
 
 ---
 
-2. **📥 Access and print the first, last, and middle elements of the list [10, 20, 30, 40, 50].**
+ ### Example 2
+ **📥 Access and print the first, last, and middle elements of the list [10, 20, 30, 40, 50].**
    ```python  
    my_list = [10, 20, 30, 40, 50]  
    first_element = my_list[0]  
@@ -125,7 +126,8 @@ Clicking on each example will take you directly to the specific section on the s
 
 ---
 
-3. **➕ Append the number 60 to the list [10, 20, 30, 40, 50] and print the updated list.**  
+ ### Example 3 
+**➕ Append the number 60 to the list [10, 20, 30, 40, 50] and print the updated list.**  
    ```python  
    my_list = [10, 20, 30, 40, 50]  
    my_list.append(60)  
@@ -139,7 +141,8 @@ Clicking on each example will take you directly to the specific section on the s
 
 ---
 
-4. **📌 Insert the number 25 at the 3rd position in the list [10, 20, 30, 40, 50] and print the updated list.**  
+ ### Example 4
+**📌 Insert the number 25 at the 3rd position in the list [10, 20, 30, 40, 50] and print the updated list.**  
    ```python  
    my_list = [10, 20, 30, 40, 50]  
    my_list.insert(2, 25)  
@@ -153,7 +156,8 @@ Clicking on each example will take you directly to the specific section on the s
 
 ---
 
-5. **🗑️ Remove the number 30 from the list [10, 20, 30, 40, 50] and print the updated list.**  
+ ### Example 5 
+**🗑️ Remove the number 30 from the list [10, 20, 30, 40, 50] and print the updated list.**  
    ```python  
    my_list = [10, 20, 30, 40, 50]  
    my_list.remove(30)  
@@ -167,7 +171,8 @@ Clicking on each example will take you directly to the specific section on the s
 
 ---
 
-6. **🚮 Pop the last element from the list [10, 20, 30, 40, 50] and print the updated list.**  
+ ### Example 6
+ **🚮 Pop the last element from the list [10, 20, 30, 40, 50] and print the updated list.**  
    ```python  
    my_list = [10, 20, 30, 40, 50]  
    my_list.pop()  
@@ -181,7 +186,8 @@ Clicking on each example will take you directly to the specific section on the s
 
 ---
 
-7. **🔍 Count the occurrences of the number 2 in the list [2, 3, 2, 5, 2, 7, 8].**  
+### Example 7
+ **🔍 Count the occurrences of the number 2 in the list [2, 3, 2, 5, 2, 7, 8].**  
    ```python  
    my_list = [2, 3, 2, 5, 2, 7, 8]  
    count_2 = my_list.count(2)  
@@ -195,7 +201,8 @@ Clicking on each example will take you directly to the specific section on the s
 
 ---
 
-8. **📍 Find the index of the number 40 in the list [10, 20, 30, 40, 50].**  
+### Example 8 
+ **📍 Find the index of the number 40 in the list [10, 20, 30, 40, 50].**  
    ```python  
    my_list = [10, 20, 30, 40, 50]  
    index_40 = my_list.index(40)  
@@ -209,7 +216,8 @@ Clicking on each example will take you directly to the specific section on the s
 
 ---
 
-9. **🔄 Sort the list [5, 3, 8, 6, 7, 2] in ascending order and print the result.**  
+### Example 9
+ **🔄 Sort the list [5, 3, 8, 6, 7, 2] in ascending order and print the result.**  
    ```python  
    my_list = [5, 3, 8, 6, 7, 2]  
    my_list.sort()  
@@ -223,7 +231,7 @@ Clicking on each example will take you directly to the specific section on the s
 
 ---
 
-10. **🔄 Reverse the list [10, 20, 30, 40, 50] and print the result.**  
+### Example 10 **🔄 Reverse the list [10, 20, 30, 40, 50] and print the result.**  
     ```python  
     my_list = [10, 20, 30, 40, 50]  
     my_list.reverse()  
