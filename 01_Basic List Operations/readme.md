@@ -18,7 +18,7 @@ This section covers various Python list operations with real-life examples for b
 
 ### **Basic List Operations**
 
-1. **🔢 Create a list of the first 10 natural numbers and print it.**  
+1. **Create a list of the first 10 natural numbers and print it.**  
    [Example 1](#create-a-ist-of-the-first-10-natural-numbers-and-print-it.)
 
 2. **📥 Access and print the first, last, and middle elements of the list [10, 20, 30, 40, 50].**  
