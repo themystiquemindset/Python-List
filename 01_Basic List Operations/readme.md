@@ -22,7 +22,7 @@ This section covers various Python list operations with real-life examples for b
    [Example 1](#create-a-list-of-the-first-10-natural-numbers-and-print-it)
 
 2. **📥 Access and print the first, last, and middle elements of the list [10, 20, 30, 40, 50].**  
-   [Example 2](#access-and-print-the-first-last-and-middle-elements-of-the-list-1020-3035-50)
+   [Example 2](#access-and-print-the-first-last-and-middle-elements-of-the-list-10-20-30-40-50])
 
 3. **➕ Append the number 60 to the list [10, 20, 30, 40, 50] and print the updated list.**  
    [Example 3](#append-the-number-60-to-the-list-1020-3035-50-and-print-the-updated-list)
@@ -105,7 +105,7 @@ Clicking on each example will take you directly to the specific section on the s
 
 ---
 
-2. **📥 Access and print the first, last, and middle elements of the list [10, 20, 30, 40, 50].**  
+2. ### 📥 Access and print the first, last, and middle elements of the list [10, 20, 30, 40, 50].
    ```python  
    my_list = [10, 20, 30, 40, 50]  
    first_element = my_list[0]  
