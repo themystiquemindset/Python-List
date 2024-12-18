@@ -1,7 +1,99 @@
 
 ### 🌟 Python List Practice Solutions
 
+Here’s the revised section for **Advanced List Operations** with clickable links:
+
 ---
+
+### 🌟 Python List Practice Solutions
+
+---
+
+## **Overview**  
+This section covers various Python list operations with real-life examples for better understanding. Each example is explained with its respective code and emoji representation for quick reference.
+
+---
+
+### **Table of Contents**  
+- [Basic List Operations](#basic-list-operations)  
+- [Intermediate List Operations](#intermediate-list-operations)  
+- [Advanced List Operations](#advanced-list-operations)
+
+---
+
+### **Basic List Operations**
+
+1. **🔢 Create a list of the first 10 natural numbers and print it.**  
+   [Example 1](#create-a-list-of-the-first-10-natural-numbers-and-print-it)
+
+2. **📥 Access and print the first, last, and middle elements of the list [10, 20, 30, 40, 50].**  
+   [Example 2](#access-and-print-the-first-last-and-middle-elements-of-the-list-1020-3035-50)
+
+3. **➕ Append the number 60 to the list [10, 20, 30, 40, 50] and print the updated list.**  
+   [Example 3](#append-the-number-60-to-the-list-1020-3035-50-and-print-the-updated-list)
+
+4. **📌 Insert the number 25 at the 3rd position in the list [10, 20, 30, 40, 50] and print the updated list.**  
+   [Example 4](#insert-the-number-25-at-the-3rd-position-in-the-list-1020-3035-50-and-print-the-updated-list)
+
+5. **🗑️ Remove the number 30 from the list [10, 20, 30, 40, 50] and print the updated list.**  
+   [Example 5](#remove-the-number-30-from-the-list-1020-3035-50-and-print-the-updated-list)
+
+6. **🚮 Pop the last element from the list [10, 20, 30, 40, 50] and print the updated list.**  
+   [Example 6](#pop-the-last-element-from-the-list-1020-3035-50-and-print-the-updated-list)
+
+7. **🔍 Count the occurrences of the number 2 in the list [2, 3, 2, 5, 2, 7, 8].**  
+   [Example 7](#count-the-occurrences-of-the-number-2-in-the-list-232-525-27-8)
+
+8. **📍 Find the index of the number 40 in the list [10, 20, 30, 40, 50].**  
+   [Example 8](#find-the-index-of-the-number-40-in-the-list-1020-3035-50)
+
+9. **🔄 Sort the list [5, 3, 8, 6, 7, 2] in ascending order and print the result.**  
+   [Example 9](#sort-the-list-5386762-in-ascending-order-and-print-the-result)
+
+10. **🔄 Reverse the list [10, 20, 30, 40, 50] and print the result.**  
+    [Example 10](#reverse-the-list-1020-3035-50-and-print-the-result)
+
+---
+
+### **Intermediate List Operations**
+
+11. **🧮 Create a list comprehension that generates a list of the squares of numbers from 1 to 10.**  
+    [Example 11](#create-a-list-comprehension-that-generates-a-list-of-the-squares-of-numbers-from-1-to-10)
+
+12. **🔢 Filter the even numbers from the list [1, 2, 3, 4, 5, 6, 7, 8, 9, 10] using list comprehension.**  
+    [Example 12](#filter-the-even-numbers-from-the-list-123456789-10-using-list-comprehension)
+
+13. **🔄 Create a list comprehension that generates a list of tuples where each tuple contains a number and its square.**  
+    [Example 13](#create-a-list-comprehension-that-generates-a-list-of-tuples-where-each-tuple-contains-a-number-and-its-square)
+
+14. **📚 Flatten a list of lists [[1, 2], [3, 4], [5, 6]] using list comprehension.**  
+    [Example 14](#flatten-a-list-of-lists-1234-56-using-list-comprehension)
+
+---
+
+### **Advanced List Operations**
+
+15. **🛠️ Create a list of unique elements from multiple lists using set operations.**  
+    [Example 15](#create-a-list-of-unique-elements-from-multiple-lists-using-set-operations)
+
+16. **🔄 Perform a deep copy of a nested list using recursion.**  
+    [Example 16](#perform-a-deep-copy-of-a-nested-list-using-recursion)
+
+17. **🔍 Perform a linear search for multiple elements in a large list.**  
+    [Example 17](#perform-a-linear-search-for-multiple-elements-in-a-large-list)
+
+18. **💾 Serialize and deserialize a complex list object using JSON.**  
+    [Example 18](#serialize-and-deserialize-a-complex-list-object-using-json)
+
+19. **💻 Implement a custom sorting algorithm for a list of dictionaries based on specific key values.**  
+    [Example 19](#implement-a-custom-sorting-algorithm-for-a-list-of-dictionaries-based-on-specific-key-values)
+
+20. **⏪️ Implement a custom reverse function for a list while maintaining its original structure.**  
+    [Example 20](#implement-a-custom-reverse-function-for-a-list-while-maintaining-its-original-structure)
+
+---
+
+Clicking on each example will take you directly to the specific section on the same page.
 
 ### 📝 Basic List Operations  
 
