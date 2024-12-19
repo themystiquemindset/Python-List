@@ -5,7 +5,7 @@ This section covers various Python list operations with real-life examples for b
 ---
 # Basic List Operations
 
-## 🔢 Question 1: Create a list of the first 10 natural numbers and print it.
+## 🔢 Example 1: Create a list of the first 10 natural numbers and print it.
 
 ### Solution:
 ```python
@@ -18,7 +18,7 @@ This can be used for tasks like generating a list of steps for a process, such a
 
 ---
 
-## 💔 Question 2: Access and print the first, last, and middle elements of the list `[10, 20, 30, 40, 50]`.
+## 💔 Example 2: Access and print the first, last, and middle elements of the list `[10, 20, 30, 40, 50]`.
 
 ### Solution:
 ```python
@@ -37,7 +37,7 @@ Useful for analyzing data where you need to extract key points, like the first, 
 
 ---
 
-## ➕ Question 3: Append the number `60` to the list `[10, 20, 30, 40, 50]` and print the updated list.
+## ➕ Example 3: Append the number `60` to the list `[10, 20, 30, 40, 50]` and print the updated list.
 
 ### Solution:
 ```python
@@ -51,7 +51,7 @@ Think of adding a new product to an inventory list, ensuring it’s updated in r
 
 ---
 
-## 🔗 Question 4: Insert the number `25` at the 3rd position in the list `[10, 20, 30, 40, 50]` and print the updated list.
+## 🔗 Example 4: Insert the number `25` at the 3rd position in the list `[10, 20, 30, 40, 50]` and print the updated list.
 
 ### Solution:
 ```python
@@ -65,7 +65,7 @@ This can represent inserting a new task into a prioritized to-do list without re
 
 ---
 
-## 🚿 Question 5: Remove the number `30` from the list `[10, 20, 30, 40, 50]` and print the updated list.
+## 🚿 Example 5: Remove the number `30` from the list `[10, 20, 30, 40, 50]` and print the updated list.
 
 ### Solution:
 ```python
@@ -79,7 +79,7 @@ Removing discontinued products from a stock list to maintain accuracy.
 
 ---
 
-## ♻️ Question 6: Pop the last element from the list `[10, 20, 30, 40, 50]` and print the updated list.
+## ♻️ Example 6: Pop the last element from the list `[10, 20, 30, 40, 50]` and print the updated list.
 
 ### Solution:
 ```python
@@ -93,7 +93,7 @@ This is like finalizing the last task in a list and removing it once completed.
 
 ---
 
-## 🔄 Question 7: Reverse the list `[10, 20, 30, 40, 50]` and print it.
+## 🔄 Example 7: Reverse the list `[10, 20, 30, 40, 50]` and print it.
 
 ### Solution:
 ```python
@@ -107,7 +107,7 @@ This is like reversing a sequence of instructions for retracing your steps.
 
 ---
 
-## 🔍 Question 8: Sort the list `[50, 10, 30, 40, 20]` in ascending order and print it.
+## 🔍 Example 8: Sort the list `[50, 10, 30, 40, 20]` in ascending order and print it.
 
 ### Solution:
 ```python
@@ -121,7 +121,7 @@ This can be used to sort a list of scores, prices, or any other numeric data.
 
 ---
 
-## ❌ Question 9: Clear all elements from the list `[10, 20, 30, 40, 50]` and print it.
+## ❌ Example 9: Clear all elements from the list `[10, 20, 30, 40, 50]` and print it.
 
 ### Solution:
 ```python
@@ -135,7 +135,7 @@ Clearing a list of temporary items after processing them, like emptying a shoppi
 
 ---
 
-## 🌟 Question 10: Check if a value exists in the list `[10, 20, 30, 40, 50]` and print the result.
+## 🌟 Example 10: Check if a value exists in the list `[10, 20, 30, 40, 50]` and print the result.
 
 ### Solution:
 ```python
