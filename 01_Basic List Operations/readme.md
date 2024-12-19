@@ -1,6 +1,6 @@
 
 
-### 🌟 Python List Practice Solutions
+### 🌟 Basic List Operations
 
 ---
 
@@ -8,15 +8,6 @@
 This section covers various Python list operations with real-life examples for better understanding. Each example is explained with its respective code and emoji representation for quick reference.
 
 ---
-
-### **Table of Contents**  
-- [Basic List Operations](#basic-list-operations)  
-- [Intermediate List Operations](#intermediate-list-operations)  
-- [Advanced List Operations](#advanced-list-operations)
-
----
-
-### **Basic List Operations**
 
 1. **Create a list of the first 10 natural numbers and print it.**  
    [Example 1](#example-1)
