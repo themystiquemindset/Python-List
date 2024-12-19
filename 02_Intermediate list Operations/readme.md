@@ -1,4 +1,4 @@
-# 🌟 Intermediate List Operations
+# 🌟 Intermediate List Operations 🌟
 
 ## 🧮 Example 1: Create a list comprehension that generates a list of the squares of numbers from 1 to 10.
 
