@@ -18,8 +18,9 @@ Consider planning a trip with various destinations. Similar to generating Fibona
 
 ---
 
-###  📄 Split a list [1, 2, 3, 4, 5, 6, 7, 8] into two halves and print both halves.  
-**Solution**:  
+###  📄 Example 2: Split a list [1, 2, 3, 4, 5, 6, 7, 8] into two halves and print both halves.
+
+## Solution:  
 ```python
 my_list = [1, 2, 3, 4, 5, 6, 7, 8]
 half = len(my_list) // 2
@@ -29,7 +30,7 @@ print(first_half)  # Output: [1, 2, 3, 4]
 print(second_half)  # Output: [5, 6, 7, 8]
 ```
 
-**Real-life Example**:  
+### Real-life Example:  
 Consider dividing a task into two stages, like breaking down a large project into manageable phases, ensuring smooth progress and completion.
 
 ---
