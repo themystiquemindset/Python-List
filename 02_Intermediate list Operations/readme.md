@@ -1,5 +1,8 @@
 # 🌟 Intermediate List Operations 🌟
 
+## Overview 
+This section provides examples of  List Operations, each explained with real-life examples to ensure a clear and practical understanding.
+
 ## 🧮 Example 1: Create a list comprehension that generates a list of the squares of numbers from 1 to 10.
 
 ### Solution:
