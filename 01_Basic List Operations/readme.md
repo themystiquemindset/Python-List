@@ -1,4 +1,4 @@
-# Basic List Operations
+# 🌟 Basic List Operations
 
 ## 🔢 Example 1: Create a list of the first 10 natural numbers and print it.
 
