@@ -35,8 +35,8 @@ Consider dividing a task into two stages, like breaking down a large project int
 
 ---
 
-###  🥈 Find the second largest number in the list [10, 20, 4, 45, 99, 4, 28].  
-**Solution**:  
+###  🥈 Example 3: Find the second largest number in the list [10, 20, 4, 45, 99, 4, 28].  
+## Solution:  
 ```python
 my_list = [10, 20, 4, 45, 99, 4, 28]
 unique_sorted_list = sorted(set(my_list))
@@ -44,41 +44,37 @@ second_largest = unique_sorted_list[-2]
 print(second_largest)  # Output: 45
 ```
 
-**Real-life Example**:  
+### Real-life Example:  
 Imagine ranking employees based on performance scores, and finding the second highest score helps identify the runner-up or next best performer.
 
 ---
 
-Certainly! Here’s the continuation for the rest of the questions:
-
----
-
-###  🌟 Create a list comprehension that generates a list of numbers from 1 to 100 that are divisible by both 3 and 5.  
-**Solution**:  
+###  🌟 Example 4: Create a list comprehension that generates a list of numbers from 1 to 100 that are divisible by both 3 and 5.  
+## Solution:  
 ```python
 divisible_by_3_and_5 = [i for i in range(1, 101) if i % 3 == 0 and i % 5 == 0]
 print(divisible_by_3_and_5)  # Output: [15, 30, 45, 60, 75, 90]
 ```
 
-**Real-life Example**:  
+### Real-life Example:  
 Consider scheduling events at regular intervals, such as a reminder system that triggers notifications only at multiples of a set time, like every 15 minutes.
 
 ---
 
-###  🔢 Create a list comprehension that generates a list of all the prime numbers less than 50.  
+###  🔢 Example 5: Create a list comprehension that generates a list of all the prime numbers less than 50.  
 **Solution**:  
 ```python
 primes = [x for x in range(2, 50) if all(x % i != 0 for i in range(2, int(x**0.5) + 1))]
 print(primes)  # Output: [2, 3, 5, 7, 11, 13, 17, 19, 23, 29, 31, 37, 41, 43, 47]
 ```
 
-**Real-life Example**:  
+## Real-life Example:  
 In quality control processes, identifying prime numbers can be used to check unique, error-free data sequences, ensuring the integrity of information.
 
 ---
 
-###  🔗 Zip two lists [1, 2, 3] and ['a', 'b', 'c'] into a list of tuples and print the result.  
-**Solution**:  
+###  🔗 Example 6: Zip two lists [1, 2, 3] and ['a', 'b', 'c'] into a list of tuples and print the result.  
+## Solution:  
 ```python
 list1 = [1, 2, 3]
 list2 = ['a', 'b', 'c']
@@ -86,7 +82,7 @@ zipped_list = list(zip(list1, list2))
 print(zipped_list)  # Output: [(1, 'a'), (2, 'b'), (3, 'c')]
 ```
 
-**Real-life Example**:  
+## Real-life Example:  
 In inventory management, pairing product IDs with their names (using zip) can help streamline data retrieval and organization.
 
 ---
