@@ -1,6 +1,5 @@
 # 🌟 Basic List Operations 🌟
 
-
 ## Overview 
 This section provides examples of Basic List Operations, each explained with real-life examples to ensure a clear and practical understanding.
 
