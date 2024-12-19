@@ -1,9 +1,3 @@
-
-## **Overview**  
-This section covers various Python list operations with real-life examples for better understanding. Each example is explained with its respective code and emoji representation for quick reference.
-
----
-
 # Intermediate List Operations
 
 ## 🧮 Example 1: Create a list comprehension that generates a list of the squares of numbers from 1 to 10.
