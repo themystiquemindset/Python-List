@@ -128,7 +128,7 @@ In customer service, identifying common issues reported by customers from two di
 
 ---
 
-###  🔄 Example 10: Create a list comprehension that generates a list of strings where each string is the reverse of the corresponding string in the list ['abc', 'def', 'ghi'].  
+###  🌈 Example 10: Create a list comprehension that generates a list of strings where each string is the reverse of the corresponding string in the list ['abc', 'def', 'ghi'].  
 ## Solution:  
 ```python
 strings = ['abc', 'def', 'ghi']
