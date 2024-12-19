@@ -114,8 +114,8 @@ Imagine rearranging a playlist of songs, where rotating the list of tracks ensur
 
 ---
 
-###  🔍 Find the common elements between two lists [1, 2, 3, 4] and [3, 4, 5, 6] and print the result.  
-**Solution**:  
+###  🔍 Example 9: Find the common elements between two lists [1, 2, 3, 4] and [3, 4, 5, 6] and print the result.  
+## Solution:  
 ```python
 list1 = [1, 2, 3, 4]
 list2 = [3, 4, 5, 6]
@@ -123,7 +123,7 @@ common_elements = list(set(list1) & set(list2))
 print(common_elements)  # Output: [3, 4]
 ```
 
-**Real-life Example**:  
+## Real-life Example:  
 In customer service, identifying common issues reported by customers from two different feedback channels helps in creating targeted solutions.
 
 ---
