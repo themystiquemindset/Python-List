@@ -87,22 +87,21 @@ In inventory management, pairing product IDs with their names (using zip) can he
 
 ---
 
-###  📤 Unzip a list of tuples [(1, 'a'), (2, 'b'), (3, 'c')] into two separate lists.  
-**Solution**:  
+###  📤 Example 7: Unzip a list of tuples [(1, 'a'), (2, 'b'), (3, 'c')] into two separate lists.  
+## Solution:  
 ```python
 zipped_list = [(1, 'a'), (2, 'b'), (3, 'c')]
 list1, list2 = zip(*zipped_list)
 print(list(list1))  # Output: [1, 2, 3]
 print(list(list2))  # Output: ['a', 'b', 'c']
 ```
-
-**Real-life Example**:  
+## Real-life Example:  
 Consider breaking down student data from a combined list of IDs and names into two distinct lists for easier data management and analysis.
 
 ---
 
-###  🔄 Rotate a list [1, 2, 3, 4, 5] to the right by 2 positions.  
-**Solution**:  
+###  🔄 Example 8: Rotate a list [1, 2, 3, 4, 5] to the right by 2 positions.  
+## Solution:  
 ```python
 my_list = [1, 2, 3, 4, 5]
 n = 2
@@ -110,7 +109,7 @@ rotated_list = my_list[-n:] + my_list[:-n]
 print(rotated_list)  # Output: [4, 5, 1, 2, 3]
 ```
 
-**Real-life Example**:  
+## Real-life Example:  
 Imagine rearranging a playlist of songs, where rotating the list of tracks ensures a fresh order and a new listening experience.
 
 ---
