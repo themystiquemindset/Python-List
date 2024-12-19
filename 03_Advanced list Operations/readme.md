@@ -136,7 +136,7 @@ reversed_strings = [s[::-1] for s in strings]
 print(reversed_strings)  # Output: ['cba', 'fed', 'ihg']
 ```
 
-**Real-life Example**:  
+## Real-life Example:  
 Consider reversing product descriptions for SEO purposes, ensuring better readability and relevance in search engine results.
 
 ---
