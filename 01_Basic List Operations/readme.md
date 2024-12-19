@@ -2,46 +2,14 @@
 
 ### 🌟 Basic List Operations
 
----
+
 
 ## **Overview**  
 This section covers various Python list operations with real-life examples for better understanding. Each example is explained with its respective code and emoji representation for quick reference.
 
 ---
 
-1. **Create a list of the first 10 natural numbers and print it.**  
-   [Example 1](#example-1)
 
-2. **📥 Access and print the first, last, and middle elements of the list [10, 20, 30, 40, 50].**  
-   [Example 2](#example-2)
-
-3. **➕ Append the number 60 to the list [10, 20, 30, 40, 50] and print the updated list.**  
-   [Example 3](#example-3)
-
-4. **📌 Insert the number 25 at the 3rd position in the list [10, 20, 30, 40, 50] and print the updated list.**  
-   [Example 4](#example-4)
-
-5. **🗑️ Remove the number 30 from the list [10, 20, 30, 40, 50] and print the updated list.**  
-   [Example 5](#example-5)
-
-6. **🚮 Pop the last element from the list [10, 20, 30, 40, 50] and print the updated list.**  
-   [Example 6](#example-6)
-
-7. **🔍 Count the occurrences of the number 2 in the list [2, 3, 2, 5, 2, 7, 8].**  
-   [Example 7](#example-7)
-
-8. **📍 Find the index of the number 40 in the list [10, 20, 30, 40, 50].**  
-   [Example 8](#example-8)
-
-9. **🔄 Sort the list [5, 3, 8, 6, 7, 2] in ascending order and print the result.**  
-   [Example 9](#example-9)
-
-10. **🔄 Reverse the list [10, 20, 30, 40, 50] and print the result.**  
-    [Example 10](#example-10)
-
----
-
-Clicking on each example will take you directly to the specific section on the same page.
 
 ### 📝 Basic List Operations  
 
