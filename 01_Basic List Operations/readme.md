@@ -18,7 +18,7 @@ This can be used for tasks like generating a list of steps for a process, such a
 
 ---
 
-## 💔 Example 2: Access and print the first, last, and middle elements of the list `[10, 20, 30, 40, 50]`.
+## 💻 Example 2: Access and print the first, last, and middle elements of the list `[10, 20, 30, 40, 50]`.
 
 ### Solution:
 ```python
