@@ -5,7 +5,7 @@ This section provides examples of Advanced List Operations, each explained with 
 
 ## 🔢 Example 1: Generate a list of the first 10 Fibonacci numbers.  
 
-## Solution:  
+### Solution:  
 ```python
 fib = [0, 1]
 for i in range(8):
@@ -20,7 +20,7 @@ Consider planning a trip with various destinations. Similar to generating Fibona
 
 ## 📄 Example 2: Split a list [1, 2, 3, 4, 5, 6, 7, 8] into two halves and print both halves.
 
-## Solution:  
+### Solution:  
 ```python
 my_list = [1, 2, 3, 4, 5, 6, 7, 8]
 half = len(my_list) // 2
@@ -36,7 +36,7 @@ Consider dividing a task into two stages, like breaking down a large project int
 ---
 
 ## 🥈 Example 3: Find the second largest number in the list [10, 20, 4, 45, 99, 4, 28].  
-## Solution:  
+### Solution:  
 ```python
 my_list = [10, 20, 4, 45, 99, 4, 28]
 unique_sorted_list = sorted(set(my_list))
@@ -50,7 +50,7 @@ Imagine ranking employees based on performance scores, and finding the second hi
 ---
 
 ## 🌟 Example 4: Create a list comprehension that generates a list of numbers from 1 to 100 that are divisible by both 3 and 5.  
-## Solution:  
+### Solution:  
 ```python
 divisible_by_3_and_5 = [i for i in range(1, 101) if i % 3 == 0 and i % 5 == 0]
 print(divisible_by_3_and_5)  # Output: [15, 30, 45, 60, 75, 90]
@@ -62,7 +62,7 @@ Consider scheduling events at regular intervals, such as a reminder system that 
 ---
 
 ## 🔢 Example 5: Create a list comprehension that generates a list of all the prime numbers less than 50.  
-**Solution**:  
+### Solution:  
 ```python
 primes = [x for x in range(2, 50) if all(x % i != 0 for i in range(2, int(x**0.5) + 1))]
 print(primes)  # Output: [2, 3, 5, 7, 11, 13, 17, 19, 23, 29, 31, 37, 41, 43, 47]
@@ -74,7 +74,7 @@ In quality control processes, identifying prime numbers can be used to check uni
 ---
 
 ## 🔗 Example 6: Zip two lists [1, 2, 3] and ['a', 'b', 'c'] into a list of tuples and print the result.  
-## Solution:  
+### Solution:  
 ```python
 list1 = [1, 2, 3]
 list2 = ['a', 'b', 'c']
@@ -88,7 +88,7 @@ In inventory management, pairing product IDs with their names (using zip) can he
 ---
 
 ## 📤 Example 7: Unzip a list of tuples [(1, 'a'), (2, 'b'), (3, 'c')] into two separate lists.  
-## Solution:  
+### Solution:  
 ```python
 zipped_list = [(1, 'a'), (2, 'b'), (3, 'c')]
 list1, list2 = zip(*zipped_list)
@@ -101,7 +101,7 @@ Consider breaking down student data from a combined list of IDs and names into t
 ---
 
 ## 🔄 Example 8: Rotate a list [1, 2, 3, 4, 5] to the right by 2 positions.  
-## Solution:  
+### Solution:  
 ```python
 my_list = [1, 2, 3, 4, 5]
 n = 2
@@ -115,7 +115,7 @@ Imagine rearranging a playlist of songs, where rotating the list of tracks ensur
 ---
 
 ## 🔍 Example 9: Find the common elements between two lists [1, 2, 3, 4] and [3, 4, 5, 6] and print the result.  
-## Solution:  
+### Solution:  
 ```python
 list1 = [1, 2, 3, 4]
 list2 = [3, 4, 5, 6]
